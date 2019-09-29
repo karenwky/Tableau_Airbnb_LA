@@ -22,6 +22,23 @@ Date of review and listing id.
 
 3. Narrow down the dataset by selecting zip codes of 2 different areas. 
 
+   |  | Hollywood Boulevard |	
+   |---|---| 
+   | 90019, 90035, 90036 | South Robertson |
+   | 90046, 90069 | West Hollywood |
+   | 90048 | Carthay |
+   | 90068 | Hollywood Dell |
+   | | |
+   | | **Bay side** |
+   | 90058 | Vernon |
+   | 90066, 90230, 90292, 90293 | Marina del Rey |
+   | 90291 | Venice |
+   | 90401, 90402, 90403, 90404, 90405 | Santa Monica |
+   
+## Interactive Dashboard
+
+Customers can easily find the ideal accommodation by selecting different criterias, such as 
+
 
 ## Skills Acquired
 * Pandas: e.g. cleaning data, creating new tables and features
