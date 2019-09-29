@@ -1,5 +1,6 @@
 # Tableau: Airbnb(Los Angeles)
-With data provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html), an interactive dashboard is created for customers based on accommodation features.
+With data provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html), an interactive dashboard is created for customers based on accommodation features. <br/>
+![dashboard1](/images/dashboard1.gif)
 
 ## Data Source
 1. [listings.csv.gz](http://data.insideairbnb.com/united-states/ca/los-angeles/2019-07-08/data/listings.csv.gz)<br/>
@@ -36,9 +37,12 @@ Date of review and listing id.
    | 90401, 90402, 90403, 90404, 90405 | Santa Monica |
    
 ## Interactive Dashboard
+![dashboard2](/images/dashboard2.gif)
+Customers can easily find the ideal accommodation by selecting different criterias, such as `amenities`, `room type`, `bed type` and `price`.  
 
-Customers can easily find the ideal accommodation by selecting different criterias, such as 
-
+## Detailed Presentation
+* Check out worksheets and dashboard with [Tableau Workbook](./airbnb_la.twb). 
+* Check out complete code with [Jupyter Notebook](./code). 
 
 ## Skills Acquired
 * Pandas: e.g. cleaning data, creating new tables and features
