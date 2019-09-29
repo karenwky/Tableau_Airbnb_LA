@@ -12,11 +12,15 @@ Summary information and metrics for listings sucha as name, price and number of 
 Date of review and listing id. 
 
 ## Data Preprocessing
-1. Narrow down the dataset by selecting zip codes of 2 different areas. 
+1. Create new boolean features for amenities. <br/>
+   <img src="/images/amenities.png" alt="amenities" width=500>
 
-2. Create new boolean features for amenities. 
+2. Select features from each dataset. 
+   ![listing2_features](/images/listing2_features.png)
+   <img src="/images/listings_features.png" alt="listings_features" width=700>
+   <img src="/images/reviews.png" alt="reviews" width=400>
 
-3. Select features in creating various worksheets. 
+3. Narrow down the dataset by selecting zip codes of 2 different areas. 
 
 
 ## Skills Acquired
